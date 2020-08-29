@@ -1,0 +1,13 @@
+{
+	"name": "atha/phpsoup",
+    "description": "PHPSOUP Framework",
+    "keywords": ["php", "framework"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
